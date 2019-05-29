@@ -1,5 +1,3 @@
-# Links
-
 ## Blogs and Newsletters
 
 [2ality](http://2ality.com/index.html)  
