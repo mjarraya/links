@@ -69,6 +69,12 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 [app-ideas](https://github.com/florinpop17/app-ideas/)  
 *A Collection of application ideas which can be used to improve your coding skills*
 
+[edabit](https://edabit.com/challenges/javascript/)  
+*Code challenges*
+
+[#JavaScript30](https://javascript30.com/)  
+*Build 30 things in 30 days with 30 tutorials*
+
 ## Tools
 
 [Gitfolio](https://github.com/imfunniee/gitfolio/)  
