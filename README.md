@@ -64,6 +64,8 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [coursera](https://www.coursera.org/)
 
+[Traversy Media on YouTube](https://www.youtube.com/user/TechGuyWeb)
+
 ## Practice
 
 [app-ideas](https://github.com/florinpop17/app-ideas/)  
