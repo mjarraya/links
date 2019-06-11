@@ -62,7 +62,7 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [freeCodeCamp](https://www.freecodecamp.org/)
 
-[coursera](https://www.coursera.org/)
+[coursera](https://www.coursera.org/)  
 
 [Traversy Media on YouTube](https://www.youtube.com/user/TechGuyWeb)
 
