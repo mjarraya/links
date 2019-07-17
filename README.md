@@ -23,6 +23,8 @@
 
 [HackerNews](https://news.ycombinator.com/)
 
+[Top JS Github Repos Monthly](https://syndicode.com/tag/javascript-github/)  
+
 ### Reddit subs
 
 [r/programming](https://www.reddit.com/r/programming/)  
