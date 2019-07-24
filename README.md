@@ -79,6 +79,8 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 [#JavaScript30](https://javascript30.com/)  
 *Build 30 things in 30 days with 30 tutorials*
 
+[30 seconds of interviews](https://github.com/30-seconds/30-seconds-of-interviews)
+
 ## Tools
 
 [Gitfolio](https://github.com/imfunniee/gitfolio/)  
