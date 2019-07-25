@@ -81,6 +81,14 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [30 seconds of interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 
+## Open Source
+
+[first-contributions](https://github.com/firstcontributions/first-contributions)  
+*Hands-on tutorial that walks you through contributions workflow on github*
+
+[Up For Grabs](https://up-for-grabs.net/#/)  
+*List of issues reported in open source projects that the maintainers have identified as good projects to tackle for a beginner to the project*
+
 ## Tools
 
 [Gitfolio](https://github.com/imfunniee/gitfolio/)  
