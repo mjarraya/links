@@ -9,6 +9,8 @@
 [David Walsh](https://davidwalsh.name/)  
 *Senior Developer at Mozilla*
 
+[rwieruch;](https://www.robinwieruch.de/)
+
 [DEV.to](https://dev.to/)
 
 [CodeBurst](https://codeburst.io/)
