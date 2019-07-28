@@ -83,6 +83,25 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [30 seconds of interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 
+## Job Searching
+
+[AngelList](https://angel.co/)  
+*Get a Job at a Startup*
+
+[remoteOK](https://remoteok.io/)  
+*Remote jobs. Also check out [nomadlist](https://nomadlist.com/)*
+
+### Freelancing platforms
+
+[malt](https://www.malt.com/)  
+
+[upwork](https://www.upwork.com/)
+
+[freelance.com](https://www.freelance.com/)  
+
+
+
+
 ## Open Source
 
 [first-contributions](https://github.com/firstcontributions/first-contributions)  
