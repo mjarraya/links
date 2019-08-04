@@ -70,6 +70,11 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [Traversy Media on YouTube](https://www.youtube.com/user/TechGuyWeb)
 
+### React-Native
+
+[A definitive React Native guide for React developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)  
+
+
 ## Practice
 
 [app-ideas](https://github.com/florinpop17/app-ideas/)  
