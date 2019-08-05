@@ -96,6 +96,9 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 [remoteOK](https://remoteok.io/)  
 *Remote jobs. Also check out [nomadlist](https://nomadlist.com/)*
 
+[remotive](https://remotive.io/)  
+
+
 ### Freelancing platforms
 
 [malt](https://www.malt.com/)  
