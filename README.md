@@ -98,6 +98,12 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [remotive](https://remotive.io/)  
 
+[JS Remotely](https://jsremotely.com/)  
+*Find new remote JavaScript, Node.js, Angular, React, Vue or Electron job from 200+ posted jobs!*
+
+[Job Board | CSS-tricks](https://css-tricks.com/jobs/)  
+*Jobs for Front-End Developers and Designers*
+
 
 ### Freelancing platforms
 
