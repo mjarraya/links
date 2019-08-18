@@ -74,6 +74,11 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [A definitive React Native guide for React developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)  
 
+### CS
+
+[Teach yourself Computer Science](https://teachyourselfcs.com/)  
+
+
 
 ## Practice
 
