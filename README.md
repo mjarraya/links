@@ -70,6 +70,11 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [Traversy Media on YouTube](https://www.youtube.com/user/TechGuyWeb)
 
+### git
+
+[Git Immersion](http://gitimmersion.com/)  
+*A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.*
+
 ### React-Native
 
 [A definitive React Native guide for React developers](https://blog.risingstack.com/a-definitive-react-native-guide-for-react-developers/)  
