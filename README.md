@@ -101,6 +101,9 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [30 seconds of interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 
+[50+ JavaScript Quiz questions](https://quiz.typeofnan.dev/)  
+
+
 ## Job Searching
 
 [AngelList](https://angel.co/)  
