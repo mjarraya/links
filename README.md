@@ -103,6 +103,8 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [50+ JavaScript Quiz questions](https://quiz.typeofnan.dev/)  
 
+[katas](https://github.com/mjarraya/katas)  
+*A curated list of katas from codewars*
 
 ## Job Searching
 
