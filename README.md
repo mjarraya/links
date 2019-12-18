@@ -116,6 +116,8 @@ see [here](https://www.reddit.com/r/ProgrammerHumor/comments/621qrt/javascript_t
 
 [remotive](https://remotive.io/)  
 
+[900+ Startups hiring Remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369/)  
+
 [JS Remotely](https://jsremotely.com/)  
 *Find new remote JavaScript, Node.js, Angular, React, Vue or Electron job from 200+ posted jobs!*
 
